@@ -2,6 +2,7 @@
 	class="navbar navbar-expand-lg"
 	id="sticky"
 	[ngClass]="{ 'nav-sticky': sticky === true }"
+	[ngStyle]="{'background-color': '#2a5782'}"
 >
 	<div class="container">
 		<h1>
@@ -21,9 +22,9 @@
 				href="/"
 				placement="bottom"
 				[ngbTooltip]="title"
-                [ngStyle]="{'color': '#022752'}" 
+                [ngStyle]="{'color': '#fff'}" 
 			>
-            ResonateAI
+            Rezunate AI
 				<!-- {{ navbarData["name"] }} -->
 			</a>
 		</h1>
