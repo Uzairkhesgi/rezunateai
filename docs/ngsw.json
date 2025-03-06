@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741268020392,
+  "timestamp": 1741282214520,
   "index": "/rezunateai/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/rezunateai/58.56a98d34c0b25182.js",
+        "/rezunateai/58.bad505ca5d9e85ab.js",
         "/rezunateai/705.d281e18a1a21bbc5.js",
         "/rezunateai/favicon.ico",
         "/rezunateai/index.html",
         "/rezunateai/main.169348ccdf6d963a.js",
         "/rezunateai/polyfills.7fb6516569a4e301.js",
-        "/rezunateai/runtime.6e983819c1137b30.js",
-        "/rezunateai/scripts.81963f27dc35e257.js",
+        "/rezunateai/runtime.35fa2d64d84b1abc.js",
+        "/rezunateai/scripts.297f6487cac6e060.js",
         "/rezunateai/styles.61b0674320f41b27.css"
       ],
       "patterns": []
@@ -119,7 +119,7 @@
   "dataGroups": [],
   "hashTable": {
     "/rezunateai/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
-    "/rezunateai/58.56a98d34c0b25182.js": "b653162539979e264e1eea4ca8af9bee081c878c",
+    "/rezunateai/58.bad505ca5d9e85ab.js": "7edd8dfb040ec6c9ce7d8ffc68dd3cdd649232e6",
     "/rezunateai/705.d281e18a1a21bbc5.js": "867469d6cf29b0cdc0a57bfe03f2f6d93e1c0f55",
     "/rezunateai/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/rezunateai/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
@@ -178,7 +178,7 @@
     "/rezunateai/assets/images/quote-img.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
     "/rezunateai/assets/images/safari-pinned-tab.svg": "eaad958ea602bb91eb9ef52cea39c9ae95f0488f",
     "/rezunateai/assets/js/live2d.min.js": "8e500cf338f216c0b444fa6d88daba4cbefe2e46",
-    "/rezunateai/assets/js/particles.min.js": "c4bd3387223baaf5b3144cf176437caf70f2d980",
+    "/rezunateai/assets/js/particles.min.js": "d2f47e73928e273ca4aab0d563eef0190a2e0121",
     "/rezunateai/assets/js/typed.min.js": "0144d808555290a2e271af0d09114d4b97b2606b",
     "/rezunateai/assets/js/vanilla-tilt.min.js": "645c5d1efdfee330c32301d0f03a14a7ce9784f8",
     "/rezunateai/assets/js/wow.min.js": "6f386b5d2fa575a0e267d6de7bc73c0e5166fb36",
@@ -201,12 +201,12 @@
     "/rezunateai/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/rezunateai/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/rezunateai/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/rezunateai/index.html": "542963aadf345f10c1b3e181c581b179f51922ae",
+    "/rezunateai/index.html": "ff90ab8079aac132b527b09958b32a540c254d55",
     "/rezunateai/main.169348ccdf6d963a.js": "36587ba6f503beaac011d25c69f288611a3d9ba1",
     "/rezunateai/polyfills.7fb6516569a4e301.js": "58ec4f0b33b60a310340b14d78aabc88f08f6a69",
     "/rezunateai/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/rezunateai/runtime.6e983819c1137b30.js": "179e16f0ff5c6018fc7dda82efd0fad6743a87b2",
-    "/rezunateai/scripts.81963f27dc35e257.js": "d72e021611dbe40b982005417274d468cc4c7961",
+    "/rezunateai/runtime.35fa2d64d84b1abc.js": "f47baccece2dc75ca79546f2f3e6898475182c54",
+    "/rezunateai/scripts.297f6487cac6e060.js": "517f3e58556ef13cc6e798606b8a0ca3536724ee",
     "/rezunateai/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
   },
   "navigationUrls": [
