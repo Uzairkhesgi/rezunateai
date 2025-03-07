@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741282214520,
+  "timestamp": 1741383990167,
   "index": "/rezunateai/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/rezunateai/58.bad505ca5d9e85ab.js",
+        "/rezunateai/358.43e3f7ad84c258d9.js",
         "/rezunateai/705.d281e18a1a21bbc5.js",
         "/rezunateai/favicon.ico",
         "/rezunateai/index.html",
-        "/rezunateai/main.169348ccdf6d963a.js",
+        "/rezunateai/main.a364d0e31342a812.js",
         "/rezunateai/polyfills.7fb6516569a4e301.js",
-        "/rezunateai/runtime.35fa2d64d84b1abc.js",
-        "/rezunateai/scripts.297f6487cac6e060.js",
-        "/rezunateai/styles.61b0674320f41b27.css"
+        "/rezunateai/runtime.df35d4860612e022.js",
+        "/rezunateai/scripts.67bfe0fbb6fa6f4c.js",
+        "/rezunateai/styles.9766858f597fa3d6.css"
       ],
       "patterns": []
     },
@@ -32,7 +32,6 @@
       },
       "urls": [
         "/rezunateai/404.4ed6dad8c73a710d.webp",
-        "/rezunateai/about-bg.7c80c2136d4a089d.svg",
         "/rezunateai/apple-touch-icon.png",
         "/rezunateai/assets/css/animate.min.css",
         "/rezunateai/assets/css/font-awesome.min.css",
@@ -69,6 +68,9 @@
         "/rezunateai/assets/images/achievement/Hacktoberfest.webp",
         "/rezunateai/assets/images/background-image.jpg",
         "/rezunateai/assets/images/bgimg.webp",
+        "/rezunateai/assets/images/favi.png",
+        "/rezunateai/assets/images/favi2.png",
+        "/rezunateai/assets/images/favi3.png",
         "/rezunateai/assets/images/footer-cloud.svg",
         "/rezunateai/assets/images/frame-desktop.webp",
         "/rezunateai/assets/images/frame-mobile.webp",
@@ -109,6 +111,7 @@
         "/rezunateai/fa-solid-900.45add571878710a9.ttf",
         "/rezunateai/fa-solid-900.7cd3ea3a010ee096.svg",
         "/rezunateai/fa-solid-900.d80d93face7fbbc1.eot",
+        "/rezunateai/favi3.8b0df0d7cfc038f2.png",
         "/rezunateai/favicon-16x16.png",
         "/rezunateai/favicon-32x32.png",
         "/rezunateai/quote-img.5e642c8eee792695.webp"
@@ -118,14 +121,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/rezunateai/358.43e3f7ad84c258d9.js": "1061b4c98533ec4c6483421eafafb1d17add10ee",
     "/rezunateai/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
-    "/rezunateai/58.bad505ca5d9e85ab.js": "7edd8dfb040ec6c9ce7d8ffc68dd3cdd649232e6",
     "/rezunateai/705.d281e18a1a21bbc5.js": "867469d6cf29b0cdc0a57bfe03f2f6d93e1c0f55",
-    "/rezunateai/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/rezunateai/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/rezunateai/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/rezunateai/assets/css/font-awesome.min.css": "db3c436a1c87b1fd43a10e820ad628f93df90bce",
-    "/rezunateai/assets/data.min.js": "41ae33de8f45a4f5f810607c5ed5ae064839d71d",
+    "/rezunateai/assets/data.min.js": "4cc8dc76a90d0ac8bdd874742584ae82947e550c",
     "/rezunateai/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/rezunateai/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/rezunateai/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -158,6 +160,9 @@
     "/rezunateai/assets/images/achievement/Hacktoberfest.webp": "1dc3b04d84f75f5620f84b0f97ca1c913f1d36ee",
     "/rezunateai/assets/images/background-image.jpg": "cf7409cb59d89e1b31741266201ccaa6e7514c84",
     "/rezunateai/assets/images/bgimg.webp": "5816b09b10b7adf71ba943965decbd7f5c8e58bf",
+    "/rezunateai/assets/images/favi.png": "c2d6b1e701920ad77673aac8be80053af677da9c",
+    "/rezunateai/assets/images/favi2.png": "f008ec98be2230ec00eac3fb49880da856e40116",
+    "/rezunateai/assets/images/favi3.png": "f008ec98be2230ec00eac3fb49880da856e40116",
     "/rezunateai/assets/images/footer-cloud.svg": "1155d58266f7d048187fadd916618298c0daf9e3",
     "/rezunateai/assets/images/frame-desktop.webp": "583f7f187a3892dcb484d77d54b81a24e63d0581",
     "/rezunateai/assets/images/frame-mobile.webp": "d3a79b7fcc068b611ac98faafce68a6a175e1d17",
@@ -198,16 +203,17 @@
     "/rezunateai/fa-solid-900.45add571878710a9.ttf": "5f4adfe2eb7b4e22cb6323d7560e56ae26f483ba",
     "/rezunateai/fa-solid-900.7cd3ea3a010ee096.svg": "c8e3b7e2aa628e46993e63bf9c806e7c27800149",
     "/rezunateai/fa-solid-900.d80d93face7fbbc1.eot": "26f695865311891d8fa1f6321605306c74b5d44c",
+    "/rezunateai/favi3.8b0df0d7cfc038f2.png": "f008ec98be2230ec00eac3fb49880da856e40116",
     "/rezunateai/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/rezunateai/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/rezunateai/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/rezunateai/index.html": "ff90ab8079aac132b527b09958b32a540c254d55",
-    "/rezunateai/main.169348ccdf6d963a.js": "36587ba6f503beaac011d25c69f288611a3d9ba1",
+    "/rezunateai/index.html": "7852be7ce94c6ff9ae1371a8eeac8b8da2e6e407",
+    "/rezunateai/main.a364d0e31342a812.js": "8969d02806d88561e64d461520be81e8a406a604",
     "/rezunateai/polyfills.7fb6516569a4e301.js": "58ec4f0b33b60a310340b14d78aabc88f08f6a69",
     "/rezunateai/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/rezunateai/runtime.35fa2d64d84b1abc.js": "f47baccece2dc75ca79546f2f3e6898475182c54",
-    "/rezunateai/scripts.297f6487cac6e060.js": "517f3e58556ef13cc6e798606b8a0ca3536724ee",
-    "/rezunateai/styles.61b0674320f41b27.css": "a8112361291e8a53e8493502f3dcbe8841480cc4"
+    "/rezunateai/runtime.df35d4860612e022.js": "b471d94891edf557d97192b6454149f61c74cfc8",
+    "/rezunateai/scripts.67bfe0fbb6fa6f4c.js": "59f2b44bd71c67a98b121179549e80dd3a399d39",
+    "/rezunateai/styles.9766858f597fa3d6.css": "376c19f9dc8437ccf5cb2187fb8ba066b1bb20d7"
   },
   "navigationUrls": [
     {
