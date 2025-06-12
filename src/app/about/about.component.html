@@ -3,12 +3,12 @@
 		<div class="row justify-content-center txt-bg txt-bg-about">
 			<div class="col-lg-6 pointer">
 				<div class="wow fadeIn section-title text-center mb-4 pb-2">
-					<div class="mb-5 pb-3">
+					<!-- <div class="mb-5 pb-3">
 						<i class="fas fa-user-graduate h1 text-muted"></i>
-					</div>
-					<h2 class="h3 font-weight-bold">About me</h2>
+					</div> -->
+					<h2 class="h3 font-weight-bold">About Us</h2>
 					<p class="text-muted mx-auto mb-0 mt-4 para-desc">
-						Experience, technologies and background.
+						Vision, Services and Tech Stacks.
 					</p>
 				</div>
 			</div>
@@ -60,19 +60,11 @@
 						<h3 class="mb-3 wow fadeIn">
 							{{ aboutData["name"] }}
 							<small class="text-muted">
-								- {{ aboutData["about"]["tech-stats"] }}
+								- {{ aboutData["about"]["RAI-intro"] }}
 							</small>
 						</h3>
 						<p class="text-muted wow slideInUp">
 							{{ aboutData["about"]["bio"] }}
-						</p>
-						<p class="text-muted wow fadeInDownBig">
-							<strong>IDE, Editors & Tools Used</strong> :
-							{{
-								aboutData["about"]["IDE, Editors & Tools"].join(
-									", "
-								)
-							}}
 						</p>
 					</div>
 				</div>

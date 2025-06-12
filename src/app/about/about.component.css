@@ -4,9 +4,9 @@
 	background-repeat: no-repeat;
 	background-color: #fff;
 }
-.txt-bg-about::before {
-	content: "About Me";
-}
+/* .txt-bg-about::before {
+	content: "About Us";
+} */
 .nav-tabs {
 	display: -ms-flexbox;
 	display: flex;
