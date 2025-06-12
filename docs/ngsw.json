@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1749741373172,
+  "timestamp": 1749745814076,
   "index": "/rezunateai/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/rezunateai/358.bb6bb5093d20a158.js",
+        "/rezunateai/358.5baa3d31ad4c94ea.js",
         "/rezunateai/705.8d27a5287e69c0c7.js",
         "/rezunateai/favicon.ico",
         "/rezunateai/index.html",
         "/rezunateai/main.0ad00226f505503b.js",
         "/rezunateai/polyfills.0db462be859b53d5.js",
-        "/rezunateai/runtime.ed8f9e8f49096982.js",
+        "/rezunateai/runtime.a80063182b41836c.js",
         "/rezunateai/scripts.da78d02568db1597.js",
         "/rezunateai/styles.32734ceca6572b19.css"
       ],
@@ -121,7 +121,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/rezunateai/358.bb6bb5093d20a158.js": "0cbbfe8b940a267b0f2625374a8095c654801e4b",
+    "/rezunateai/358.5baa3d31ad4c94ea.js": "1406c64131ba2a58ad552891414eb46e2fabf8d9",
     "/rezunateai/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
     "/rezunateai/705.8d27a5287e69c0c7.js": "c24993365043df2e697c9e6aaeca2d3f9e7469a6",
     "/rezunateai/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
@@ -207,11 +207,11 @@
     "/rezunateai/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
     "/rezunateai/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
     "/rezunateai/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
-    "/rezunateai/index.html": "7fef04ded81933fff1b9f1f3b6948819de24e957",
+    "/rezunateai/index.html": "ba9e3b89ab16113f91636bb41bba722f999e5ddd",
     "/rezunateai/main.0ad00226f505503b.js": "94d444e889681b289b36ec87e2761963b2882f35",
     "/rezunateai/polyfills.0db462be859b53d5.js": "6dd97089f3de2f01bc3c189174984a43be915c4e",
     "/rezunateai/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/rezunateai/runtime.ed8f9e8f49096982.js": "390d102847ba0b03f72557192c0b7ec505e13dcb",
+    "/rezunateai/runtime.a80063182b41836c.js": "9699b612986f14b383da363d9a78dc2ad6a341c7",
     "/rezunateai/scripts.da78d02568db1597.js": "cb4c9da4570d3c3672f9dcc2ef72f9125596013c",
     "/rezunateai/styles.32734ceca6572b19.css": "429ba7ad29d2e44bf25b26091a927b688cc3df7a"
   },
